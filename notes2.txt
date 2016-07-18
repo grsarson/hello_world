@@ -6,4 +6,4 @@ And another edit from another machine (via webpage).
 
 And edit again from the command line (on stralsund).
 
-More trivial edits.  (And still more.)
+More trivial edits.  (And still more, again...)
