@@ -4,4 +4,6 @@ Add notes.txt file
 
 Add edits set 1 on stralsund.
 
+Add edits set 2 on maelmin.
+
 -----
